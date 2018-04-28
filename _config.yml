@@ -31,3 +31,5 @@ sass:
     
 # Build settings
 markdown: kramdown
+
+remote-theme: andrewbanchich/editorial-jekyll-theme
